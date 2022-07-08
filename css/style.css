@@ -66,7 +66,8 @@ main {
     margin: 10px;
     border: 1px solid var(--primary-color);
     box-shadow: 1px 1px 15px 1px var(--shadow-gray-light);
-    font-size: 30px;
+    font-size: 25px;
+    text-transform: capitalize;
 }
 
 .card:hover {
