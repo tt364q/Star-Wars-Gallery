@@ -92,3 +92,4 @@ function render(showModal){
         $section.html(htmlArray);
     }
 }
+
